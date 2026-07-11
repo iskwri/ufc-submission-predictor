@@ -16,7 +16,6 @@ RandomForestClassifier
 - Merging two datasets with suffixes (_R, _B)
 - Data cleaning: height conversion, weight conversion, handling missing values
 - Target encoding with np.where
-- Class imbalance handling with class_weight='balanced'
 - StandardScaler for feature normalization
 
 ## Results
